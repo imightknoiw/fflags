@@ -1,4 +1,4 @@
-# FFlag Archive. Full redits to https://github.com/espresso-soft
+# FFlag Archive. Full credits to https://github.com/espresso-soft
 
 > [!NOTE]
 > If you find our repository useful don't forget to star!
