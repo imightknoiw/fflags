@@ -29,7 +29,7 @@
 * **`Self Explanatory 10`**
 * **`Self Explanatory 11`**
 * **`break everything`**
-* **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
+* **[Upcoming Updates Progress](https://github.com/espresso-soft/rbxflags/assets/lists/updates/progress.md)**
 
 ## List Meanings
 **✨ - sOmethin rare hArd to get > like a holy treAsure its dat one thIng you gotta hAve could be a shoe a cAr or a piece of arT + everybody wAnts it but only a fEw get it = it’s dat uLtimate find ya feel me?**
@@ -40,7 +40,7 @@
 3. **Paste** in the **JSON**.
 4. **Save** and your good to go!
 
-<img src="/assets/tutorial260.gif" width="750"/>
+<img src="https://github.com/espresso-soft/rbxflags//assets/tutorial260.gif" width="750"/>
 
 ## Normal Roblox Bootstrapper How to Use:
 ###### You can also do Roblox Studio
@@ -73,7 +73,7 @@
 3. **Include** a **Place ID after** the **semicolon**. **Examples**: `True;4483381587`, `1;4483381587`.
 4. Your configuration is **complete**!**
 
-# List Navigation
+# List Navigation (functionality coming soon)
 * **[Rendering](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#rendering)**
 * **[Lightning Technologies](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#lightning-technologies)**
 * **[Graphical](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#graphical-settings)**
